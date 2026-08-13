@@ -54,3 +54,6 @@ android/key.properties
 
 # Coverage reports
 lcov.info
+
+# Local editor/tooling config
+.claude/
